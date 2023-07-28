@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.mji.rip/2023/07/21/4fc57561b6681928bbb0ed139b475072.png" height="150" width="150" alt="Koori Logo">
+<img src="https://i.mji.rip/2023/07/21/4fc57561b6681928bbb0ed139b475072.png" height="150" width="150" alt="WT901DCL Logo">
 <h1>WT901DCL</h1></div>
 
 <p align="center">
